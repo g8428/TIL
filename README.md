@@ -23,5 +23,5 @@
 
 ### Git
 
-- [gitignore 파일 생성 및 사용자 규칙 정의]()
+- [gitignore 파일 생성 및 사용자 규칙 정의](https://github.com/g8428/TIL/blob/master/220210_TIL.md)
 - 
